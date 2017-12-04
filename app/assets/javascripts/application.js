@@ -12,9 +12,9 @@
 //
 //= require rails-ujs
 //= require jquery
-//= require bootstrap
+
 //= require jquery-ui
 //= require jquery.turbolinks
 //= require turbolinks
-
+//= require bootstrap
 //= require social-share-button
